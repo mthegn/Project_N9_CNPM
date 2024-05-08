@@ -1,0 +1,13 @@
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\BLL\bin\Debug\BLL.dll
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\BLL\bin\Debug\BLL.pdb
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\BLL\bin\Debug\DAL.dll
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\BLL\bin\Debug\DTO.dll
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\BLL\bin\Debug\DAL.pdb
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\BLL\bin\Debug\DTO.pdb
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\BLL\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\BLL\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\BLL\obj\Debug\BUS.csproj.Up2Date
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\BLL\obj\Debug\BLL.dll
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\BLL\obj\Debug\BLL.pdb
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\BLL\bin\Debug\Newtonsoft.Json.xml

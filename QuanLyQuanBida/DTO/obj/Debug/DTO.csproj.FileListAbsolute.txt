@@ -1,0 +1,9 @@
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\DTO\bin\Debug\DTO.dll
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\DTO\bin\Debug\DTO.pdb
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\DTO\obj\Debug\DTO.dll
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\DTO\obj\Debug\DTO.pdb
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\DTO\bin\Debug\Newtonsoft.Json.dll
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\DTO\bin\Debug\Newtonsoft.Json.xml
+D:\Học kì IV\CNPM\DoAnCuoiKi\QuanLyQuanBida\DTO\obj\Debug\DTO.csproj.Up2Date

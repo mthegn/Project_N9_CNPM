@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\H\u1ECDc k\u00EC IV\\CNPM\\DoAnCuoiKi\\QuanLyQuanBida\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{197CBBC3-AB09-48B4-AF1F-A0E388AC1989}|GUI\\GUI.csproj|d:\\h\u1ECDc k\u00EC iv\\cnpm\\doancuoiki\\quanlyquanbida\\gui\\capnhatcalam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197CBBC3-AB09-48B4-AF1F-A0E388AC1989}|GUI\\GUI.csproj|solutionrelative:gui\\capnhatcalam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CapNhatCaLam.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC IV\\CNPM\\DoAnCuoiKi\\QuanLyQuanBida\\GUI\\CapNhatCaLam.cs",
+              "RelativeDocumentMoniker": "GUI\\CapNhatCaLam.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC IV\\CNPM\\DoAnCuoiKi\\QuanLyQuanBida\\GUI\\CapNhatCaLam.cs",
+              "RelativeToolTip": "GUI\\CapNhatCaLam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:14:06.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
